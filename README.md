@@ -1,8 +1,8 @@
 # car_wash
 backend code for car wash application
-sign in
-sign in for admin
-log in
-user service needed
-service available in each places
-no of bookings
+1.sign in
+2.sign in for admin
+3.log in
+4.user service needed
+5.service available in each places
+6.no of bookings
